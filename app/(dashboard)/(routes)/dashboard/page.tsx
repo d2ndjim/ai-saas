@@ -1,10 +1,6 @@
-import { FC } from 'react'
 
-interface pageProps {
-  
-}
 
-const DashBoardPage: FC<pageProps> = ({}) => {
+const DashBoardPage = () => {
   return <div>page</div>
 }
 
