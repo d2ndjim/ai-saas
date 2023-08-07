@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^4.23.2",
     "@radix-ui/react-slot": "^1.0.2",
     "@types/node": "20.4.8",
     "@types/react": "18.2.18",
@@ -27,5 +28,8 @@
     "tailwindcss": "3.3.3",
     "tailwindcss-animate": "^1.0.6",
     "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.1"
   }
 }
