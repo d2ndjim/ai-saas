@@ -24,7 +24,7 @@ Users should be able to:
 
 # Links
 
-- Live Site URL: [LIVE DEMO](https://ecommerce-dashboard-bice.vercel.app/)
+- Live Site URL: [LIVE DEMO](https://genie-ai-eight.vercel.app/)
 
 ## My process
 
